@@ -1,3 +1,8 @@
+THIS CODE IS CURRENTLY BEING REFACTORED!!!
+correct readme to come soon
+
+
+
 Packages needed (file for which they are needed):
 
     bs4 (stat-scraper.py / bracket-scraper.py / record-scraper.py)
