@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2013,Middle Tennessee State,Saint Mary's,none,0,1
+2013,Liberty,North Carolina A&T,none,0,1
+2013,Boise State,La Salle,none,0,1
+2013,James Madison,Long Island,none,0,0
+2013,Indiana,James Madison,East Regional,1,0
+2013,NC State,Temple,East Regional,1,1
+2013,UNLV,California,East Regional,1,1
+2013,Syracuse,Montana,East Regional,1,0
+2013,Butler,Bucknell,East Regional,1,0
+2013,Marquette,Davidson,East Regional,1,0
+2013,Illinois,Colorado,East Regional,1,0
+2013,Miami (FL),Pacific,East Regional,1,0
+2013,Indiana,Temple,East Regional,2,0
+2013,Syracuse,California,East Regional,2,0
+2013,Marquette,Butler,East Regional,2,0
+2013,Miami (FL),Illinois,East Regional,2,0
+2013,Indiana,Syracuse,East Regional,3,1
+2013,Miami (FL),Marquette,East Regional,3,1
+2013,Marquette,Syracuse,East Regional,4,1
+2013,Gonzaga,Southern,West Regional,1,0
+2013,Pittsburgh,Wichita State,West Regional,1,1
+2013,Wisconsin,Ole Miss,West Regional,1,1
+2013,Kansas State,La Salle,West Regional,1,1
+2013,Arizona,Belmont,West Regional,1,0
+2013,New Mexico,Harvard,West Regional,1,1
+2013,Notre Dame,Iowa State,West Regional,1,1
+2013,Ohio State,Iona,West Regional,1,0
+2013,Gonzaga,Wichita State,West Regional,2,1
+2013,Ole Miss,La Salle,West Regional,2,1
+2013,Arizona,Harvard,West Regional,2,0
+2013,Ohio State,Iowa State,West Regional,2,0
+2013,Wichita State,La Salle,West Regional,3,0
+2013,Ohio State,Arizona,West Regional,3,0
+2013,Ohio State,Wichita State,West Regional,4,1
+2013,Louisville,North Carolina A&T,Midwest Regional,1,0
+2013,Colorado State,Missouri,Midwest Regional,1,0
+2013,Oklahoma State,Oregon,Midwest Regional,1,1
+2013,Saint Louis,New Mexico State,Midwest Regional,1,0
+2013,Memphis,Saint Mary's,Midwest Regional,1,0
+2013,Michigan State,Valparaiso,Midwest Regional,1,0
+2013,Creighton,Cincinnati,Midwest Regional,1,0
+2013,Duke,Albany,Midwest Regional,1,0
+2013,Louisville,Colorado State,Midwest Regional,2,0
+2013,Saint Louis,Oregon,Midwest Regional,2,1
+2013,Michigan State,Memphis,Midwest Regional,2,0
+2013,Duke,Creighton,Midwest Regional,2,0
+2013,Louisville,Oregon,Midwest Regional,3,0
+2013,Duke,Michigan State,Midwest Regional,3,0
+2013,Louisville,Duke,Midwest Regional,4,0
+2013,Kansas,Western Kentucky,South Regional,1,0
+2013,North Carolina,Villanova,South Regional,1,0
+2013,VCU,Akron,South Regional,1,0
+2013,Michigan,South Dakota State,South Regional,1,0
+2013,UCLA,Minnesota,South Regional,1,1
+2013,Florida,Northwestern State,South Regional,1,0
+2013,San Diego State,Oklahoma,South Regional,1,0
+2013,Georgetown,Florida Gulf Coast,South Regional,1,1
+2013,Kansas,North Carolina,South Regional,2,0
+2013,Michigan,VCU,South Regional,2,0
+2013,Florida,Minnesota,South Regional,2,0
+2013,San Diego State,Florida Gulf Coast,South Regional,2,1
+2013,Kansas,Michigan,South Regional,3,1
+2013,Florida,Florida Gulf Coast,South Regional,3,0
+2013,Florida,Michigan,South Regional,4,1
+2013,Louisville,Wichita State,none,5,0
+2013,Michigan,Syracuse,none,5,0
+2013,Louisville,Michigan,none,6,0

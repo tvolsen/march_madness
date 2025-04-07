@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2014,Albany,Mount St. Mary's,none,0,0
+2014,NC State,Xavier,none,0,0
+2014,Cal Poly,Texas Southern,none,0,0
+2014,Iowa,Tennessee,none,0,1
+2014,Florida,Albany,South Regional,1,0
+2014,Colorado,Pittsburgh,South Regional,1,1
+2014,VCU,Stephen F. Austin,South Regional,1,1
+2014,UCLA,Tulsa,South Regional,1,0
+2014,Ohio State,Dayton,South Regional,1,1
+2014,Syracuse,Western Michigan,South Regional,1,0
+2014,New Mexico,Stanford,South Regional,1,1
+2014,Kansas,Eastern Kentucky,South Regional,1,0
+2014,Florida,Pittsburgh,South Regional,2,0
+2014,UCLA,Stephen F. Austin,South Regional,2,0
+2014,Syracuse,Dayton,South Regional,2,1
+2014,Kansas,Stanford,South Regional,2,1
+2014,Florida,UCLA,South Regional,3,0
+2014,Stanford,Dayton,South Regional,3,1
+2014,Florida,Dayton,South Regional,4,0
+2014,Arizona,Weber State,West Regional,1,0
+2014,Gonzaga,Oklahoma State,West Regional,1,0
+2014,Oklahoma,North Dakota State,West Regional,1,1
+2014,San Diego State,New Mexico State,West Regional,1,0
+2014,Baylor,Nebraska,West Regional,1,0
+2014,Creighton,Louisiana,West Regional,1,0
+2014,Oregon,Brigham Young,West Regional,1,0
+2014,Wisconsin,American University,West Regional,1,0
+2014,Arizona,Gonzaga,West Regional,2,0
+2014,San Diego State,North Dakota State,West Regional,2,0
+2014,Creighton,Baylor,West Regional,2,1
+2014,Wisconsin,Oregon,West Regional,2,0
+2014,Arizona,San Diego State,West Regional,3,0
+2014,Wisconsin,Baylor,West Regional,3,0
+2014,Arizona,Wisconsin,West Regional,4,1
+2014,Virginia,Coastal Carolina,East Regional,1,0
+2014,Memphis,George Washington,East Regional,1,0
+2014,Cincinnati,Harvard,East Regional,1,1
+2014,Michigan State,Delaware,East Regional,1,0
+2014,North Carolina,Providence,East Regional,1,0
+2014,Iowa State,North Carolina Central,East Regional,1,0
+2014,UConn,Saint Joseph's,East Regional,1,0
+2014,Villanova,Milwaukee,East Regional,1,0
+2014,Virginia,Memphis,East Regional,2,0
+2014,Michigan State,Harvard,East Regional,2,0
+2014,Iowa State,North Carolina,East Regional,2,0
+2014,Villanova,UConn,East Regional,2,1
+2014,Virginia,Michigan State,East Regional,3,1
+2014,Iowa State,UConn,East Regional,3,1
+2014,Michigan State,UConn,East Regional,4,1
+2014,Wichita State,Cal Poly,Midwest Regional,1,0
+2014,Kentucky,Kansas State,Midwest Regional,1,0
+2014,Saint Louis,NC State,Midwest Regional,1,0
+2014,Louisville,Manhattan,Midwest Regional,1,0
+2014,Massachusetts,Tennessee,Midwest Regional,1,1
+2014,Duke,Mercer,Midwest Regional,1,1
+2014,Texas,Arizona State,Midwest Regional,1,0
+2014,Michigan,Wofford,Midwest Regional,1,0
+2014,Wichita State,Kentucky,Midwest Regional,2,1
+2014,Louisville,Saint Louis,Midwest Regional,2,0
+2014,Tennessee,Mercer,Midwest Regional,2,0
+2014,Michigan,Texas,Midwest Regional,2,0
+2014,Louisville,Kentucky,Midwest Regional,3,1
+2014,Michigan,Tennessee,Midwest Regional,3,0
+2014,Michigan,Kentucky,Midwest Regional,4,1
+2014,Florida,UConn,none,5,1
+2014,Wisconsin,Kentucky,none,5,1
+2014,UConn,Kentucky,none,6,0

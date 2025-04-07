@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2005,Oakland,Alabama A&M ,none,0,0
+2005,Illinois,Fairleigh Dickinson,Midwest Regional,1,0
+2005,Texas,Nevada,Midwest Regional,1,1
+2005,Alabama,Milwaukee,Midwest Regional,1,1
+2005,Boston College,Pennsylvania ,Midwest Regional,1,0
+2005,LSU,UAB,Midwest Regional,1,1
+2005,Arizona,Utah State,Midwest Regional,1,0
+2005,Southern Illinois,Saint Mary's,Midwest Regional,1,0
+2005,Oklahoma State,Southeastern Louisiana,Midwest Regional,1,0
+2005,Illinois,Nevada,Midwest Regional,2,0
+2005,Boston College,Milwaukee,Midwest Regional,2,1
+2005,Arizona,UAB,Midwest Regional,2,0
+2005,Oklahoma State,Southern Illinois,Midwest Regional,2,0
+2005,Illinois,Milwaukee,Midwest Regional,3,0
+2005,Oklahoma State,Arizona,Midwest Regional,3,1
+2005,Illinois,Arizona,Midwest Regional,4,0
+2005,Washington,Montana,West Regional,1,0
+2005,Pacific,Pittsburgh,West Regional,1,0
+2005,Georgia Tech,George Washington,West Regional,1,0
+2005,Louisville,Louisiana,West Regional,1,0
+2005,Texas Tech,UCLA,West Regional,1,0
+2005,Gonzaga,Winthrop,West Regional,1,0
+2005,West Virginia,Creighton,West Regional,1,0
+2005,Wake Forest,Chattanooga,West Regional,1,0
+2005,Washington,Pacific,West Regional,2,0
+2005,Louisville,Georgia Tech,West Regional,2,0
+2005,Gonzaga,Texas Tech,West Regional,2,1
+2005,Wake Forest,West Virginia,West Regional,2,1
+2005,Washington,Louisville,West Regional,3,1
+2005,Texas Tech,West Virginia,West Regional,3,1
+2005,Louisville,West Virginia,West Regional,4,0
+2005,North Carolina,Oakland,East Regional,1,0
+2005,Minnesota,Iowa State,East Regional,1,1
+2005,Villanova,New Mexico,East Regional,1,0
+2005,Florida,Ohio,East Regional,1,0
+2005,Wisconsin,Northern Iowa,East Regional,1,0
+2005,Kansas,Bucknell,East Regional,1,1
+2005,Charlotte,NC State,East Regional,1,1
+2005,Connecticut,UCF,East Regional,1,0
+2005,North Carolina,Iowa State,East Regional,2,0
+2005,Florida,Villanova,East Regional,2,1
+2005,Wisconsin,Bucknell,East Regional,2,0
+2005,Connecticut,NC State,East Regional,2,1
+2005,North Carolina,Villanova,East Regional,3,0
+2005,Wisconsin,NC State,East Regional,3,0
+2005,North Carolina,Wisconsin,East Regional,4,0
+2005,Duke,Delaware State,South Regional,1,0
+2005,Stanford,Mississippi State,South Regional,1,1
+2005,Michigan State,Old Dominion,South Regional,1,0
+2005,Syracuse,Vermont,South Regional,1,1
+2005,Utah,UTEP,South Regional,1,0
+2005,Oklahoma,Niagara,South Regional,1,0
+2005,Cincinnati,Iowa,South Regional,1,0
+2005,Kentucky,Eastern Kentucky,South Regional,1,0
+2005,Duke,Mississippi State,South Regional,2,0
+2005,Michigan State,Vermont,South Regional,2,0
+2005,Oklahoma,Utah,South Regional,2,1
+2005,Kentucky,Cincinnati,South Regional,2,0
+2005,Duke,Michigan State,South Regional,3,1
+2005,Kentucky,Utah,South Regional,3,0
+2005,Kentucky,Michigan State,South Regional,4,1
+2005,Illinois,Louisville,none,5,0
+2005,North Carolina,Michigan State,none,5,0
+2005,Illinois,North Carolina,none,6,1

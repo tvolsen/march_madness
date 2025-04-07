@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2019,Fairleigh Dickinson,Prairie View A&M,none,0,0
+2019,Belmont,Temple,none,0,0
+2019,North Dakota State,North Carolina Central,none,0,0
+2019,Arizona State,St. John's,none,0,0
+2019,North Carolina,Iona,Midwest Regional,1,0
+2019,Utah State,Washington,Midwest Regional,1,1
+2019,Auburn,New Mexico State,Midwest Regional,1,0
+2019,Kansas,Northeastern,Midwest Regional,1,0
+2019,Iowa State,Ohio State,Midwest Regional,1,1
+2019,Houston,Georgia State,Midwest Regional,1,0
+2019,Wofford,Seton Hall,Midwest Regional,1,0
+2019,Kentucky,Abilene Christian,Midwest Regional,1,0
+2019,North Carolina,Washington,Midwest Regional,2,0
+2019,Kansas,Auburn,Midwest Regional,2,1
+2019,Houston,Ohio State,Midwest Regional,2,0
+2019,Kentucky,Wofford,Midwest Regional,2,0
+2019,North Carolina,Auburn,Midwest Regional,3,1
+2019,Kentucky,Houston,Midwest Regional,3,0
+2019,Kentucky,Auburn,Midwest Regional,4,1
+2019,Gonzaga,Fairleigh Dickinson,West Regional,1,0
+2019,Syracuse,Baylor,West Regional,1,1
+2019,Marquette,Murray State,West Regional,1,1
+2019,Florida State,Vermont,West Regional,1,0
+2019,Buffalo,Arizona State,West Regional,1,0
+2019,Texas Tech,Northern Kentucky,West Regional,1,0
+2019,Nevada,Florida,West Regional,1,1
+2019,Michigan,Montana,West Regional,1,0
+2019,Gonzaga,Baylor,West Regional,2,0
+2019,Florida State,Murray State,West Regional,2,0
+2019,Texas Tech,Buffalo,West Regional,2,0
+2019,Michigan,Florida,West Regional,2,0
+2019,Gonzaga,Florida State,West Regional,3,0
+2019,Michigan,Texas Tech,West Regional,3,1
+2019,Gonzaga,Texas Tech,West Regional,4,1
+2019,Duke,North Dakota State,East Regional,1,0
+2019,VCU,UCF,East Regional,1,1
+2019,Mississippi State,Liberty,East Regional,1,1
+2019,Virginia Tech,Saint Louis,East Regional,1,0
+2019,Maryland,Belmont,East Regional,1,0
+2019,LSU,Yale,East Regional,1,0
+2019,Louisville,Minnesota,East Regional,1,1
+2019,Michigan State,Bradley,East Regional,1,0
+2019,Duke,UCF,East Regional,2,0
+2019,Virginia Tech,Liberty,East Regional,2,0
+2019,LSU,Maryland,East Regional,2,0
+2019,Michigan State,Minnesota,East Regional,2,0
+2019,Duke,Virginia Tech,East Regional,3,0
+2019,Michigan State,LSU,East Regional,3,0
+2019,Duke,Michigan State,East Regional,4,1
+2019,Virginia,Gardner-Webb,South Regional,1,0
+2019,Ole Miss,Oklahoma,South Regional,1,1
+2019,Wisconsin,Oregon,South Regional,1,1
+2019,Kansas State,UC Irvine,South Regional,1,1
+2019,Villanova,Saint Mary's,South Regional,1,0
+2019,Purdue,Old Dominion,South Regional,1,0
+2019,Cincinnati,Iowa,South Regional,1,1
+2019,Tennessee,Colgate,South Regional,1,0
+2019,Virginia,Oklahoma,South Regional,2,0
+2019,Oregon,UC Irvine,South Regional,2,0
+2019,Purdue,Villanova,South Regional,2,0
+2019,Tennessee,Iowa,South Regional,2,0
+2019,Virginia,Oregon,South Regional,3,0
+2019,Tennessee,Purdue,South Regional,3,1
+2019,Virginia,Purdue,South Regional,4,0
+2019,Michigan State,Texas Tech,none,5,1
+2019,Virginia,Auburn,none,5,0
+2019,Virginia,Texas Tech,none,6,0

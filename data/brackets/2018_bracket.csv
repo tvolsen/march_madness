@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2018,St. Bonaventure,UCLA,none,0,0
+2018,Long Island,Radford,none,0,1
+2018,North Carolina Central,Texas Southern,none,0,1
+2018,Arizona State,Syracuse,none,0,1
+2018,Kansas,Pennsylvania ,Midwest Regional,1,0
+2018,Seton Hall,NC State,Midwest Regional,1,0
+2018,Clemson,New Mexico State,Midwest Regional,1,0
+2018,Auburn,Charleston,Midwest Regional,1,0
+2018,TCU,Syracuse,Midwest Regional,1,1
+2018,Michigan State,Bucknell,Midwest Regional,1,0
+2018,Rhode Island,Oklahoma,Midwest Regional,1,0
+2018,Duke,Iona,Midwest Regional,1,0
+2018,Kansas,Seton Hall,Midwest Regional,2,0
+2018,Auburn,Clemson,Midwest Regional,2,1
+2018,Michigan State,Syracuse,Midwest Regional,2,1
+2018,Duke,Rhode Island,Midwest Regional,2,0
+2018,Kansas,Clemson,Midwest Regional,3,0
+2018,Duke,Syracuse,Midwest Regional,3,0
+2018,Kansas,Duke,Midwest Regional,4,0
+2018,Xavier,Texas Southern,West Regional,1,0
+2018,Missouri,Florida State,West Regional,1,1
+2018,Ohio State,South Dakota State,West Regional,1,0
+2018,Gonzaga,UNC Greensboro,West Regional,1,0
+2018,Houston,San Diego State,West Regional,1,0
+2018,Michigan,Montana,West Regional,1,0
+2018,Texas A&M,Providence,West Regional,1,0
+2018,North Carolina,Lipscomb,West Regional,1,0
+2018,Xavier,Florida State,West Regional,2,1
+2018,Gonzaga,Ohio State,West Regional,2,0
+2018,Michigan,Houston,West Regional,2,0
+2018,North Carolina,Texas A&M,West Regional,2,1
+2018,Gonzaga,Florida State,West Regional,3,1
+2018,Michigan,Texas A&M,West Regional,3,0
+2018,Michigan,Florida State,West Regional,4,0
+2018,Villanova,Radford,East Regional,1,0
+2018,Virginia Tech,Alabama,East Regional,1,1
+2018,West Virginia,Murray State,East Regional,1,0
+2018,Wichita State,Marshall,East Regional,1,1
+2018,Florida,St. Bonaventure,East Regional,1,0
+2018,Texas Tech,Stephen F. Austin,East Regional,1,0
+2018,Arkansas,Butler,East Regional,1,1
+2018,Purdue,Cal State Fullerton,East Regional,1,0
+2018,Villanova,Alabama,East Regional,2,0
+2018,West Virginia,Marshall,East Regional,2,0
+2018,Texas Tech,Florida,East Regional,2,0
+2018,Purdue,Butler,East Regional,2,0
+2018,Villanova,West Virginia,East Regional,3,0
+2018,Purdue,Texas Tech,East Regional,3,1
+2018,Villanova,Texas Tech,East Regional,4,0
+2018,Virginia,UMBC,South Regional,1,1
+2018,Creighton,Kansas State,South Regional,1,1
+2018,Kentucky,Davidson,South Regional,1,0
+2018,Arizona,Buffalo,South Regional,1,1
+2018,Miami (FL),Loyola (IL),South Regional,1,1
+2018,Tennessee,Wright State,South Regional,1,0
+2018,Nevada,Texas,South Regional,1,0
+2018,Cincinnati,Georgia State,South Regional,1,0
+2018,Kansas State,UMBC,South Regional,2,0
+2018,Kentucky,Buffalo,South Regional,2,0
+2018,Tennessee,Loyola (IL),South Regional,2,1
+2018,Cincinnati,Nevada,South Regional,2,1
+2018,Kentucky,Kansas State,South Regional,3,1
+2018,Nevada,Loyola (IL),South Regional,3,1
+2018,Kansas State,Loyola (IL),South Regional,4,1
+2018,Michigan,Loyola (IL),none,5,0
+2018,Villanova,Kansas,none,5,0
+2018,Villanova,Michigan,none,6,0

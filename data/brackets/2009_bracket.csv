@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2009,Alabama State,Morehead State,none,0,1
+2009,Louisville,Morehead State,Midwest Regional,1,0
+2009,Ohio State,Siena,Midwest Regional,1,1
+2009,Utah,Arizona,Midwest Regional,1,1
+2009,Wake Forest,Cleveland State,Midwest Regional,1,1
+2009,West Virginia,Dayton,Midwest Regional,1,1
+2009,Kansas,North Dakota State,Midwest Regional,1,0
+2009,Boston College,USC,Midwest Regional,1,1
+2009,Michigan State,Robert Morris,Midwest Regional,1,0
+2009,Louisville,Siena,Midwest Regional,2,0
+2009,Arizona,Cleveland State,Midwest Regional,2,0
+2009,Kansas,Dayton,Midwest Regional,2,0
+2009,Michigan State,USC,Midwest Regional,2,0
+2009,Louisville,Arizona,Midwest Regional,3,0
+2009,Michigan State,Kansas,Midwest Regional,3,0
+2009,Louisville,Michigan State,Midwest Regional,4,1
+2009,UConn,Chattanooga,West Regional,1,0
+2009,Brigham Young,Texas A&M,West Regional,1,1
+2009,Purdue,Northern Iowa,West Regional,1,0
+2009,Washington,Mississippi State,West Regional,1,0
+2009,Marquette,Utah State,West Regional,1,0
+2009,Missouri,Cornell,West Regional,1,0
+2009,California,Maryland,West Regional,1,1
+2009,Memphis,Cal State Northridge,West Regional,1,0
+2009,UConn,Texas A&M,West Regional,2,0
+2009,Washington,Purdue,West Regional,2,1
+2009,Missouri,Marquette,West Regional,2,0
+2009,Memphis,Maryland,West Regional,2,0
+2009,UConn,Purdue,West Regional,3,0
+2009,Memphis,Missouri,West Regional,3,1
+2009,UConn,Missouri,West Regional,4,0
+2009,Pittsburgh,East Tennessee State,East Regional,1,0
+2009,Oklahoma State,Tennessee,East Regional,1,0
+2009,Florida State,Wisconsin,East Regional,1,1
+2009,Xavier,Portland State,East Regional,1,0
+2009,UCLA,VCU,East Regional,1,0
+2009,Villanova,American University,East Regional,1,0
+2009,Texas,Minnesota,East Regional,1,0
+2009,Duke,Binghamton,East Regional,1,0
+2009,Pittsburgh,Oklahoma State,East Regional,2,0
+2009,Xavier,Wisconsin,East Regional,2,0
+2009,Villanova,UCLA,East Regional,2,0
+2009,Duke,Texas,East Regional,2,0
+2009,Pittsburgh,Xavier,East Regional,3,0
+2009,Duke,Villanova,East Regional,3,1
+2009,Pittsburgh,Villanova,East Regional,4,1
+2009,North Carolina,Radford,South Regional,1,0
+2009,LSU,Butler,South Regional,1,0
+2009,Illinois,Western Kentucky,South Regional,1,1
+2009,Gonzaga,Akron,South Regional,1,0
+2009,Arizona State,Temple,South Regional,1,0
+2009,Syracuse,Stephen F. Austin,South Regional,1,0
+2009,Clemson,Michigan,South Regional,1,1
+2009,Oklahoma,Morgan State,South Regional,1,0
+2009,North Carolina,LSU,South Regional,2,0
+2009,Gonzaga,Western Kentucky,South Regional,2,0
+2009,Syracuse,Arizona State,South Regional,2,0
+2009,Oklahoma,Michigan,South Regional,2,0
+2009,North Carolina,Gonzaga,South Regional,3,0
+2009,Oklahoma,Syracuse,South Regional,3,0
+2009,North Carolina,Oklahoma,South Regional,4,0
+2009,UConn,Michigan State,none,5,1
+2009,North Carolina,Villanova,none,5,0
+2009,North Carolina,Michigan State,none,6,0

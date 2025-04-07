@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2023,Southeast Missouri State,Texas A&M-CC,none,0,1
+2023,Pittsburgh,Mississippi State,none,0,0
+2023,Texas Southern,Fairleigh Dickinson,none,0,1
+2023,Arizona State,Nevada,none,0,0
+2023,Alabama,Texas A&M-CC,South Regional,1,0
+2023,Maryland,West Virginia,South Regional,1,0
+2023,San Diego State,Charleston,South Regional,1,0
+2023,Virginia,Furman,South Regional,1,1
+2023,Creighton,NC State,South Regional,1,0
+2023,Baylor,UC Santa Barbara,South Regional,1,0
+2023,Missouri,Utah State,South Regional,1,0
+2023,Arizona,Princeton,South Regional,1,1
+2023,Alabama,Maryland,South Regional,2,0
+2023,San Diego State,Furman,South Regional,2,0
+2023,Baylor,Creighton,South Regional,2,1
+2023,Missouri,Princeton,South Regional,2,1
+2023,Alabama,San Diego State,South Regional,3,1
+2023,Creighton,Princeton,South Regional,3,0
+2023,San Diego State,Creighton,South Regional,4,0
+2023,Houston,Northern Kentucky,Midwest Regional,1,0
+2023,Iowa,Auburn,Midwest Regional,1,1
+2023,Miami (FL),Drake,Midwest Regional,1,0
+2023,Indiana,Kent State,Midwest Regional,1,0
+2023,Iowa State,Pittsburgh,Midwest Regional,1,1
+2023,Xavier,Kennesaw State,Midwest Regional,1,0
+2023,Texas A&M,Penn State,Midwest Regional,1,1
+2023,Texas,Colgate,Midwest Regional,1,0
+2023,Houston,Auburn,Midwest Regional,2,0
+2023,Indiana,Miami (FL),Midwest Regional,2,1
+2023,Xavier,Pittsburgh,Midwest Regional,2,0
+2023,Texas,Penn State,Midwest Regional,2,0
+2023,Houston,Miami (FL),Midwest Regional,3,1
+2023,Texas,Xavier,Midwest Regional,3,0
+2023,Texas,Miami (FL),Midwest Regional,4,1
+2023,Purdue,Fairleigh Dickinson,East Regional,1,1
+2023,Memphis,Florida Atlantic ,East Regional,1,1
+2023,Duke,Oral Roberts,East Regional,1,0
+2023,Tennessee,Louisiana,East Regional,1,0
+2023,Kentucky,Providence,East Regional,1,0
+2023,Kansas State,Montana State,East Regional,1,0
+2023,Michigan State,USC,East Regional,1,0
+2023,Marquette,Vermont,East Regional,1,0
+2023,Florida Atlantic ,Fairleigh Dickinson,East Regional,2,0
+2023,Tennessee,Duke,East Regional,2,0
+2023,Kansas State,Kentucky,East Regional,2,0
+2023,Marquette,Michigan State,East Regional,2,1
+2023,Tennessee,Florida Atlantic ,East Regional,3,1
+2023,Kansas State,Michigan State,East Regional,3,0
+2023,Kansas State,Florida Atlantic ,East Regional,4,1
+2023,Kansas,Howard,West Regional,1,0
+2023,Arkansas,Illinois,West Regional,1,0
+2023,Saint Mary's,VCU,West Regional,1,0
+2023,UConn,Iona,West Regional,1,0
+2023,TCU,Arizona State,West Regional,1,0
+2023,Gonzaga,Grand Canyon,West Regional,1,0
+2023,Northwestern,Boise State,West Regional,1,0
+2023,UCLA,UNC Asheville,West Regional,1,0
+2023,Kansas,Arkansas,West Regional,2,1
+2023,UConn,Saint Mary's,West Regional,2,0
+2023,Gonzaga,TCU,West Regional,2,0
+2023,UCLA,Northwestern,West Regional,2,0
+2023,UConn,Arkansas,West Regional,3,0
+2023,UCLA,Gonzaga,West Regional,3,1
+2023,Gonzaga,UConn,West Regional,4,1
+2023,San Diego State,Florida Atlantic ,none,5,0
+2023,Miami (FL),UConn,none,5,1
+2023,UConn,San Diego State,none,6,0

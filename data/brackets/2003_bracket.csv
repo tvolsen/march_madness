@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2003,Texas Southern,UNC Asheville,none,0,1
+2003,Kentucky,IU Indy,Midwest Regional,1,0
+2003,Oregon,Utah,Midwest Regional,1,1
+2003,Wisconsin,Weber State,Midwest Regional,1,0
+2003,Dayton,Tulsa,Midwest Regional,1,1
+2003,Missouri,Southern Illinois,Midwest Regional,1,0
+2003,Marquette,Holy Cross,Midwest Regional,1,0
+2003,Indiana,Alabama,Midwest Regional,1,0
+2003,Pittsburgh,Wagner,Midwest Regional,1,0
+2003,Kentucky,Utah,Midwest Regional,2,0
+2003,Wisconsin,Tulsa,Midwest Regional,2,0
+2003,Marquette,Missouri,Midwest Regional,2,0
+2003,Pittsburgh,Indiana,Midwest Regional,2,0
+2003,Kentucky,Wisconsin,Midwest Regional,3,0
+2003,Pittsburgh,Marquette,Midwest Regional,3,1
+2003,Kentucky,Marquette,Midwest Regional,4,1
+2003,Arizona,Vermont,West Regional,1,0
+2003,Cincinnati,Gonzaga,West Regional,1,1
+2003,Notre Dame,Milwaukee,West Regional,1,0
+2003,Illinois,Western Kentucky,West Regional,1,0
+2003,Creighton,Central Michigan,West Regional,1,1
+2003,Duke,Colorado State,West Regional,1,0
+2003,Memphis,Arizona State,West Regional,1,1
+2003,Kansas,Utah State,West Regional,1,0
+2003,Arizona,Gonzaga,West Regional,2,0
+2003,Illinois,Notre Dame,West Regional,2,1
+2003,Duke,Central Michigan,West Regional,2,0
+2003,Kansas,Arizona State,West Regional,2,0
+2003,Arizona,Notre Dame,West Regional,3,0
+2003,Kansas,Duke,West Regional,3,0
+2003,Arizona,Kansas,West Regional,4,1
+2003,Oklahoma,South Carolina State,East Regional,1,0
+2003,California,NC State,East Regional,1,0
+2003,Mississippi State,Butler,East Regional,1,1
+2003,Louisville,Austin Peay,East Regional,1,0
+2003,Oklahoma State,Pennsylvania ,East Regional,1,0
+2003,Syracuse,Manhattan,East Regional,1,0
+2003,Saint Joseph's,Auburn,East Regional,1,1
+2003,Wake Forest,East Tennessee State,East Regional,1,0
+2003,Oklahoma,California,East Regional,2,0
+2003,Louisville,Butler,East Regional,2,1
+2003,Syracuse,Oklahoma State,East Regional,2,0
+2003,Wake Forest,Auburn,East Regional,2,1
+2003,Oklahoma,Butler,East Regional,3,0
+2003,Syracuse,Auburn,East Regional,3,0
+2003,Oklahoma,Syracuse,East Regional,4,1
+2003,Texas,UNC Asheville,South Regional,1,0
+2003,LSU,Purdue,South Regional,1,1
+2003,UConn,Brigham Young,South Regional,1,0
+2003,Stanford,San Diego,South Regional,1,0
+2003,Maryland,UNC Wilmington,South Regional,1,0
+2003,Xavier,Troy,South Regional,1,0
+2003,Michigan State,Colorado,South Regional,1,0
+2003,Florida,Sam Houston State,South Regional,1,0
+2003,Texas,Purdue,South Regional,2,0
+2003,Stanford,UConn,South Regional,2,1
+2003,Xavier,Maryland,South Regional,2,1
+2003,Florida,Michigan State,South Regional,2,1
+2003,Texas,UConn,South Regional,3,0
+2003,Maryland,Michigan State,South Regional,3,1
+2003,Texas,Michigan State,South Regional,4,0
+2003,Texas,Syracuse,none,5,1
+2003,Kansas,Marquette,none,5,0
+2003,Kansas,Syracuse,none,6,1

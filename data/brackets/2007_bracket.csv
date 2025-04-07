@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2007,Florida A&M,Niagara,none,0,1
+2007,Florida,Jackson State,Midwest Regional,1,0
+2007,Arizona,Purdue,Midwest Regional,1,1
+2007,Butler,Old Dominion,Midwest Regional,1,0
+2007,Maryland,Davidson,Midwest Regional,1,0
+2007,Notre Dame,Winthrop,Midwest Regional,1,1
+2007,Oregon,Miami (OH),Midwest Regional,1,0
+2007,UNLV,Georgia Tech,Midwest Regional,1,0
+2007,Wisconsin,Texas A&M-CC,Midwest Regional,1,0
+2007,Florida,Purdue,Midwest Regional,2,0
+2007,Maryland,Butler,Midwest Regional,2,1
+2007,Oregon,Winthrop,Midwest Regional,2,0
+2007,Wisconsin,UNLV,Midwest Regional,2,1
+2007,Florida,Butler,Midwest Regional,3,0
+2007,Oregon,UNLV,Midwest Regional,3,0
+2007,Florida,Oregon,Midwest Regional,4,0
+2007,Kansas,Niagara,West Regional,1,0
+2007,Kentucky,Villanova,West Regional,1,0
+2007,Virginia Tech,Illinois,West Regional,1,0
+2007,Southern Illinois,Holy Cross,West Regional,1,0
+2007,Duke,VCU,West Regional,1,1
+2007,Pittsburgh,Wright State,West Regional,1,0
+2007,Indiana,Gonzaga,West Regional,1,0
+2007,UCLA,Weber State,West Regional,1,0
+2007,Kansas,Kentucky,West Regional,2,0
+2007,Southern Illinois,Virginia Tech,West Regional,2,0
+2007,Pittsburgh,VCU,West Regional,2,0
+2007,UCLA,Indiana,West Regional,2,0
+2007,Kansas,Southern Illinois,West Regional,3,0
+2007,UCLA,Pittsburgh,West Regional,3,0
+2007,Kansas,UCLA,West Regional,4,1
+2007,North Carolina,Eastern Kentucky,East Regional,1,0
+2007,Marquette,Michigan State,East Regional,1,1
+2007,USC,Arkansas,East Regional,1,0
+2007,Texas,New Mexico State,East Regional,1,0
+2007,Vanderbilt,George Washington,East Regional,1,0
+2007,Washington State,Oral Roberts,East Regional,1,0
+2007,Boston College,Texas Tech,East Regional,1,0
+2007,Georgetown,Belmont,East Regional,1,0
+2007,North Carolina,Michigan State,East Regional,2,0
+2007,Texas,USC,East Regional,2,1
+2007,Washington State,Vanderbilt,East Regional,2,1
+2007,Georgetown,Boston College,East Regional,2,0
+2007,North Carolina,USC,East Regional,3,0
+2007,Georgetown,Vanderbilt,East Regional,3,0
+2007,North Carolina,Georgetown,East Regional,4,1
+2007,Ohio State,Central Connecticut State,South Regional,1,0
+2007,Brigham Young,Xavier,South Regional,1,1
+2007,Tennessee,Long Beach State,South Regional,1,0
+2007,Virginia,Albany,South Regional,1,0
+2007,Louisville,Stanford,South Regional,1,0
+2007,Texas A&M,Pennsylvania ,South Regional,1,0
+2007,Nevada,Creighton,South Regional,1,0
+2007,Memphis,North Texas,South Regional,1,0
+2007,Ohio State,Xavier,South Regional,2,0
+2007,Virginia,Tennessee,South Regional,2,1
+2007,Texas A&M,Louisville,South Regional,2,0
+2007,Memphis,Nevada,South Regional,2,0
+2007,Ohio State,Tennessee,South Regional,3,0
+2007,Memphis,Texas A&M,South Regional,3,0
+2007,Ohio State,Memphis,South Regional,4,0
+2007,Florida,UCLA,none,5,0
+2007,Ohio State,Georgetown,none,5,0
+2007,Florida,Ohio State,none,6,0

@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2004,Lehigh,Florida A&M,none,0,1
+2004,Kentucky,Florida A&M,Midwest Regional,1,0
+2004,Washington,UAB,Midwest Regional,1,1
+2004,Providence,Pacific,Midwest Regional,1,1
+2004,Kansas,Illinois-Chicago,Midwest Regional,1,0
+2004,Boston College,Utah,Midwest Regional,1,0
+2004,Georgia Tech,Northern Iowa,Midwest Regional,1,0
+2004,Michigan State,Nevada,Midwest Regional,1,1
+2004,Gonzaga,Valparaiso,Midwest Regional,1,0
+2004,Kentucky,UAB,Midwest Regional,2,1
+2004,Kansas,Pacific,Midwest Regional,2,0
+2004,Georgia Tech,Boston College,Midwest Regional,2,0
+2004,Gonzaga,Nevada,Midwest Regional,2,1
+2004,Kansas,UAB,Midwest Regional,3,0
+2004,Georgia Tech,Nevada,Midwest Regional,3,0
+2004,Georgia Tech,Kansas,Midwest Regional,4,0
+2004,Stanford,Texas-San Antonio,West Regional,1,0
+2004,Alabama,Southern Illinois,West Regional,1,0
+2004,Syracuse,Brigham Young,West Regional,1,0
+2004,Maryland,UTEP,West Regional,1,0
+2004,Vanderbilt,Western Michigan,West Regional,1,0
+2004,NC State,Louisiana,West Regional,1,0
+2004,DePaul,Dayton,West Regional,1,0
+2004,UConn,Vermont,West Regional,1,0
+2004,Stanford,Alabama,West Regional,2,1
+2004,Maryland,Syracuse,West Regional,2,1
+2004,NC State,Vanderbilt,West Regional,2,1
+2004,UConn,DePaul,West Regional,2,0
+2004,Syracuse,Alabama,West Regional,3,1
+2004,UConn,Vanderbilt,West Regional,3,0
+2004,UConn,Alabama,West Regional,4,0
+2004,Saint Joseph's,Liberty,East Regional,1,0
+2004,Texas Tech,Charlotte,East Regional,1,0
+2004,Florida,Manhattan,East Regional,1,1
+2004,Wake Forest,VCU,East Regional,1,0
+2004,Wisconsin,Richmond,East Regional,1,0
+2004,Pittsburgh,UCF,East Regional,1,0
+2004,Memphis,South Carolina,East Regional,1,0
+2004,Oklahoma State,Eastern Washington,East Regional,1,0
+2004,Saint Joseph's,Texas Tech,East Regional,2,0
+2004,Wake Forest,Manhattan,East Regional,2,0
+2004,Pittsburgh,Wisconsin,East Regional,2,0
+2004,Oklahoma State,Memphis,East Regional,2,0
+2004,Saint Joseph's,Wake Forest,East Regional,3,0
+2004,Oklahoma State,Pittsburgh,East Regional,3,0
+2004,Saint Joseph's,Oklahoma State,East Regional,4,1
+2004,Duke,Alabama State,South Regional,1,0
+2004,Seton Hall,Arizona,South Regional,1,0
+2004,Illinois,Murray State,South Regional,1,0
+2004,Cincinnati,East Tennessee State,South Regional,1,0
+2004,North Carolina,Air Force,South Regional,1,0
+2004,Texas,Princeton,South Regional,1,0
+2004,Xavier,Louisville,South Regional,1,0
+2004,Mississippi State,Monmouth,South Regional,1,0
+2004,Duke,Seton Hall,South Regional,2,0
+2004,Cincinnati,Illinois,South Regional,2,1
+2004,Texas,North Carolina,South Regional,2,0
+2004,Mississippi State,Xavier,South Regional,2,1
+2004,Duke,Illinois,South Regional,3,0
+2004,Texas,Xavier,South Regional,3,1
+2004,Duke,Xavier,South Regional,4,0
+2004,Oklahoma State,Georgia Tech,none,5,1
+2004,Duke,UConn,none,5,1
+2004,UConn,Georgia Tech,none,6,0

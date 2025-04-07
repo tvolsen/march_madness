@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2024,Colorado State,Virginia,none,0,0
+2024,Howard,Wagner,none,0,1
+2024,Montana State,Grambling State,none,0,1
+2024,Colorado,Boise State,none,0,0
+2024,Houston,Longwood,South Regional,1,0
+2024,Nebraska,Texas A&M,South Regional,1,1
+2024,Wisconsin,James Madison,South Regional,1,1
+2024,Duke,Vermont,South Regional,1,0
+2024,Texas Tech,NC State,South Regional,1,1
+2024,Kentucky,Oakland,South Regional,1,1
+2024,Florida,Colorado,South Regional,1,1
+2024,Marquette,Western Kentucky,South Regional,1,0
+2024,Houston,Texas A&M,South Regional,2,0
+2024,Duke,James Madison,South Regional,2,0
+2024,NC State,Oakland,South Regional,2,0
+2024,Marquette,Colorado,South Regional,2,0
+2024,Houston,Duke,South Regional,3,1
+2024,Marquette,NC State,South Regional,3,1
+2024,Duke,NC State,South Regional,4,1
+2024,Purdue,Grambling State,Midwest Regional,1,0
+2024,Utah State,TCU,Midwest Regional,1,0
+2024,Gonzaga,McNeese State,Midwest Regional,1,0
+2024,Kansas,Samford,Midwest Regional,1,0
+2024,South Carolina,Oregon,Midwest Regional,1,1
+2024,Creighton,Akron,Midwest Regional,1,0
+2024,Texas,Colorado State,Midwest Regional,1,0
+2024,Tennessee,Saint Peter's,Midwest Regional,1,0
+2024,Purdue,Utah State,Midwest Regional,2,0
+2024,Kansas,Gonzaga,Midwest Regional,2,1
+2024,Creighton,Oregon,Midwest Regional,2,0
+2024,Tennessee,Texas,Midwest Regional,2,0
+2024,Purdue,Gonzaga,Midwest Regional,3,0
+2024,Tennessee,Creighton,Midwest Regional,3,0
+2024,Purdue,Tennessee,Midwest Regional,4,0
+2024,UConn,Stetson,East Regional,1,0
+2024,Florida Atlantic ,Northwestern,East Regional,1,1
+2024,San Diego State,UAB,East Regional,1,0
+2024,Auburn,Yale,East Regional,1,1
+2024,Brigham Young,Duquesne,East Regional,1,1
+2024,Illinois,Morehead State,East Regional,1,0
+2024,Washington State,Drake,East Regional,1,0
+2024,Iowa State,South Dakota State,East Regional,1,0
+2024,UConn,Northwestern,East Regional,2,0
+2024,San Diego State,Yale,East Regional,2,0
+2024,Illinois,Duquesne,East Regional,2,0
+2024,Iowa State,Washington State,East Regional,2,0
+2024,UConn,San Diego State,East Regional,3,0
+2024,Iowa State,Illinois,East Regional,3,1
+2024,UConn,Illinois,East Regional,4,0
+2024,North Carolina,Wagner,West Regional,1,0
+2024,Mississippi State,Michigan State,West Regional,1,1
+2024,Saint Mary's,Grand Canyon,West Regional,1,1
+2024,Alabama,Charleston,West Regional,1,0
+2024,Clemson,New Mexico,West Regional,1,0
+2024,Baylor,Colgate,West Regional,1,0
+2024,Dayton,Nevada,West Regional,1,0
+2024,Arizona,Long Beach State,West Regional,1,0
+2024,North Carolina,Michigan State,West Regional,2,0
+2024,Alabama,Grand Canyon,West Regional,2,0
+2024,Baylor,Clemson,West Regional,2,1
+2024,Arizona,Dayton,West Regional,2,0
+2024,North Carolina,Alabama,West Regional,3,1
+2024,Arizona,Clemson,West Regional,3,1
+2024,Alabama,Clemson,West Regional,4,0
+2024,UConn,Alabama,none,5,0
+2024,Purdue,NC State,none,5,0
+2024,Purdue,UConn,none,6,1

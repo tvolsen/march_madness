@@ -1,0 +1,65 @@
+year,team0,team1,region,round,winner
+2010,Arkansas-Pine Bluff ,Winthrop,none,0,0
+2010,Kansas,Lehigh,Midwest Regional,1,0
+2010,UNLV,Northern Iowa,Midwest Regional,1,1
+2010,Michigan State,New Mexico State,Midwest Regional,1,0
+2010,Maryland,Houston,Midwest Regional,1,0
+2010,Tennessee,San Diego State,Midwest Regional,1,0
+2010,Georgetown,Ohio,Midwest Regional,1,1
+2010,Oklahoma State,Georgia Tech,Midwest Regional,1,1
+2010,Ohio State,UC Santa Barbara,Midwest Regional,1,0
+2010,Kansas,Northern Iowa,Midwest Regional,2,1
+2010,Maryland,Michigan State,Midwest Regional,2,1
+2010,Tennessee,Ohio,Midwest Regional,2,0
+2010,Ohio State,Georgia Tech,Midwest Regional,2,0
+2010,Michigan State,Northern Iowa,Midwest Regional,3,0
+2010,Ohio State,Tennessee,Midwest Regional,3,1
+2010,Michigan State,Tennessee,Midwest Regional,4,0
+2010,Syracuse,Vermont,West Regional,1,0
+2010,Gonzaga,Florida State,West Regional,1,0
+2010,Butler,UTEP,West Regional,1,0
+2010,Vanderbilt,Murray State,West Regional,1,1
+2010,Xavier,Minnesota,West Regional,1,0
+2010,Pittsburgh,Oakland,West Regional,1,0
+2010,Brigham Young,Florida,West Regional,1,0
+2010,Kansas State,North Texas,West Regional,1,0
+2010,Syracuse,Gonzaga,West Regional,2,0
+2010,Butler,Murray State,West Regional,2,0
+2010,Pittsburgh,Xavier,West Regional,2,1
+2010,Kansas State,Brigham Young,West Regional,2,0
+2010,Syracuse,Butler,West Regional,3,1
+2010,Kansas State,Xavier,West Regional,3,0
+2010,Kansas State,Butler,West Regional,4,1
+2010,Kentucky,East Tennessee State,East Regional,1,0
+2010,Texas,Wake Forest,East Regional,1,1
+2010,Temple,Cornell,East Regional,1,1
+2010,Wisconsin,Wofford,East Regional,1,0
+2010,Marquette,Washington,East Regional,1,1
+2010,New Mexico,Montana,East Regional,1,0
+2010,Clemson,Missouri,East Regional,1,1
+2010,West Virginia,Morgan State,East Regional,1,0
+2010,Kentucky,Wake Forest,East Regional,2,0
+2010,Wisconsin,Cornell,East Regional,2,1
+2010,New Mexico,Washington,East Regional,2,1
+2010,West Virginia,Missouri,East Regional,2,0
+2010,Kentucky,Cornell,East Regional,3,0
+2010,West Virginia,Washington,East Regional,3,0
+2010,Kentucky,West Virginia,East Regional,4,1
+2010,Duke,Arkansas-Pine Bluff ,South Regional,1,0
+2010,California,Louisville,South Regional,1,0
+2010,Texas A&M,Utah State,South Regional,1,0
+2010,Purdue,Siena,South Regional,1,0
+2010,Notre Dame,Old Dominion,South Regional,1,1
+2010,Baylor,Sam Houston State,South Regional,1,0
+2010,Richmond,Saint Mary's,South Regional,1,1
+2010,Villanova,Robert Morris,South Regional,1,0
+2010,Duke,California,South Regional,2,0
+2010,Purdue,Texas A&M,South Regional,2,0
+2010,Baylor,Old Dominion,South Regional,2,0
+2010,Villanova,Saint Mary's,South Regional,2,1
+2010,Duke,Purdue,South Regional,3,0
+2010,Baylor,Saint Mary's,South Regional,3,0
+2010,Duke,Baylor,South Regional,4,0
+2010,Michigan State,Butler,none,5,1
+2010,Duke,West Virginia,none,5,0
+2010,Duke,Butler,none,6,0

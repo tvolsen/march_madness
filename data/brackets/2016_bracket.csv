@@ -1,0 +1,68 @@
+year,team0,team1,region,round,winner
+2016,Vanderbilt,Wichita State,none,0,1
+2016,Fairleigh Dickinson,Florida Gulf Coast,none,0,1
+2016,Holy Cross,Southern,none,0,0
+2016,Michigan,Tulsa,none,0,0
+2016,Virginia,Hampton,Midwest Regional,1,0
+2016,Texas Tech,Butler,Midwest Regional,1,1
+2016,Purdue,Little Rock,Midwest Regional,1,1
+2016,Iowa State,Iona,Midwest Regional,1,0
+2016,Seton Hall,Gonzaga,Midwest Regional,1,1
+2016,Utah,Fresno State,Midwest Regional,1,0
+2016,Dayton,Syracuse,Midwest Regional,1,1
+2016,Michigan State,Middle Tennessee State,Midwest Regional,1,1
+2016,Virginia,Butler,Midwest Regional,2,0
+2016,Iowa State,Little Rock,Midwest Regional,2,0
+2016,Utah,Gonzaga,Midwest Regional,2,1
+2016,Syracuse,Middle Tennessee State,Midwest Regional,2,0
+2016,Virginia,Iowa State,Midwest Regional,3,0
+2016,Syracuse,Gonzaga,Midwest Regional,3,0
+2016,Virginia,Syracuse,Midwest Regional,4,1
+2016,Oregon,Holy Cross,West Regional,1,0
+2016,Saint Joseph's,Cincinnati,West Regional,1,0
+2016,Baylor,Yale,West Regional,1,1
+2016,Duke,UNC Wilmington,West Regional,1,0
+2016,Texas,Northern Iowa,West Regional,1,1
+2016,Texas A&M,Green Bay,West Regional,1,0
+2016,Oregon State,VCU,West Regional,1,1
+2016,Oklahoma,Cal State Bakersfield,West Regional,1,0
+2016,Oregon,Saint Joseph's,West Regional,2,0
+2016,Duke,Yale,West Regional,2,0
+2016,Texas A&M,Northern Iowa,West Regional,2,0
+2016,Oklahoma,VCU,West Regional,2,0
+2016,Oregon,Duke,West Regional,3,0
+2016,Oklahoma,Texas A&M,West Regional,3,0
+2016,Oregon,Oklahoma,West Regional,4,1
+2016,North Carolina,Florida Gulf Coast,East Regional,1,0
+2016,USC,Providence,East Regional,1,1
+2016,Indiana,Chattanooga,East Regional,1,0
+2016,Kentucky,Stony Brook,East Regional,1,0
+2016,Notre Dame,Michigan,East Regional,1,0
+2016,West Virginia,Stephen F. Austin,East Regional,1,1
+2016,Wisconsin,Pittsburgh,East Regional,1,0
+2016,Xavier,Weber State,East Regional,1,0
+2016,North Carolina,Providence,East Regional,2,0
+2016,Kentucky,Indiana,East Regional,2,1
+2016,Notre Dame,Stephen F. Austin,East Regional,2,0
+2016,Xavier,Wisconsin,East Regional,2,1
+2016,North Carolina,Indiana,East Regional,3,0
+2016,Notre Dame,Wisconsin,East Regional,3,0
+2016,North Carolina,Notre Dame,East Regional,4,0
+2016,Kansas,Austin Peay,South Regional,1,0
+2016,Colorado,UConn,South Regional,1,1
+2016,Maryland,South Dakota State,South Regional,1,0
+2016,California,Hawaii,South Regional,1,1
+2016,Arizona,Wichita State,South Regional,1,1
+2016,Miami (FL),Buffalo,South Regional,1,0
+2016,Iowa,Temple,South Regional,1,0
+2016,Villanova,UNC Asheville,South Regional,1,0
+2016,Kansas,UConn,South Regional,2,0
+2016,Maryland,Hawaii,South Regional,2,0
+2016,Miami (FL),Wichita State,South Regional,2,0
+2016,Villanova,Iowa,South Regional,2,0
+2016,Kansas,Maryland,South Regional,3,0
+2016,Villanova,Miami (FL),South Regional,3,0
+2016,Kansas,Villanova,South Regional,4,1
+2016,Oklahoma,Villanova,none,5,1
+2016,North Carolina,Syracuse,none,5,0
+2016,North Carolina,Villanova,none,6,1
