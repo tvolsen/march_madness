@@ -1,0 +1,9 @@
+-clean up last major block of code in data-prep.ipynb (it works as expected now, but can be translated to series, which makes more sense and will run quicker)
+
+-write bracket figure generator
+
+-start data analysis and model building. how will the training and testing data be broken up? (1 year test, several years test, etc.)
+
+-update bracket-scraper to handle current year data (I don't know what the format will look like, will need to be done in March. Bracket can be manually entered if time crunched)
+
+-update stat prep to handle current year data
